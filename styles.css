@@ -3,8 +3,12 @@ p
     color: antiquewhite;
 }
 button{
+<<<<<<< HEAD
     color: red;
 }
 option{
     color: yellow;
+=======
+    color: brown;
+>>>>>>> main
 }
